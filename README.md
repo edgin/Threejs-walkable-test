@@ -1,6 +1,4 @@
-=========================================
-Walkable Surface Pathfinding – Three.js
-=========================================
+# Walkable Surface Pathfinding – Three.js
 
 This demo loads a navmesh exported from Blender (via Recast),
 then uses three-pathfinding to let the user click two points
