@@ -4,6 +4,8 @@ This demo loads a navmesh exported from Blender (via Recast),
 then uses three-pathfinding to let the user click two points
 and visualize the path between them.
 
+![Screenshot from 2025-05-25 07-08-55](https://github.com/user-attachments/assets/65aa6279-2aef-4f5e-b615-afcbf89499eb)
+
 ---
 
 ## FILE STRUCTURE OVERVIEW
